@@ -1,0 +1,9 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "desafio numero 2",
+  "main": "server.js",
+  "dependencies": {
+    "express": ""
+  }
+}
